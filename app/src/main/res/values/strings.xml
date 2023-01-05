@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Fiback</string>
+    <string name="welcome_view_title_page_one">Welcome to Fiback</string>
+    <string name="welcome_view_description_page_one">&#160;</string>
+
+
+    <string name="welcome_view_title_page_two">What can you do this app</string>
+    <string name="welcome_view_description_page_two">You have a file you want this file backup multiple platforms, but you dont know how to do it. You can use this application while doing all the operations.</string>
+
+    <string name="welcome_view_title_page_three">Which platforms supports?</string>
+    <string name="welcome_view_description_page_three">This application supports drive, dropbox, icloud and one drive applications.</string>
+
+
+</resources>
